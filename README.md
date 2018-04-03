@@ -12,7 +12,8 @@ npm run build
 # 安装HttpServer
 npm install http-server -g
 
-# 进入dist目录，运行
+# 运行
+进入dist目录
 http-server -p 3000
 
 
