@@ -1,5 +1,11 @@
 # vue-hello
 
+# 安装Vue脚手架
+npm install -g vue-cli
+
+# 初始化项目
+vue init webpack ${项目名}
+
 # 安装
 npm install
 
