@@ -9,10 +9,10 @@ npm run dev
 # 打包
 npm run build
 
-#安装HttpServer
+# 安装HttpServer
 npm install http-server -g
 
-#进入dist目录，运行
+# 进入dist目录，运行
 http-server -p 3000
 
 
